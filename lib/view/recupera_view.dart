@@ -31,7 +31,7 @@ class _RecoverViewState extends State<RecoverView> {
               Container(
                 padding: const EdgeInsets.all(8),
                 decoration: BoxDecoration(
-                  color: const Color(0xFF048100).withOpacity(0.1),
+                  color: const Color(0xFF048100),
                   borderRadius: BorderRadius.circular(50),
                 ),
                 child: const Icon(
@@ -68,10 +68,10 @@ class _RecoverViewState extends State<RecoverView> {
               Container(
                 padding: const EdgeInsets.all(12),
                 decoration: BoxDecoration(
-                  color: const Color(0xFF89AFFF).withOpacity(0.1),
+                  color: const Color(0xFF89AFFF),
                   borderRadius: BorderRadius.circular(8),
                   border: Border.all(
-                    color: const Color(0xFF89AFFF).withOpacity(0.3),
+                    color: const Color(0xFF89AFFF),
                   ),
                 ),
                 child: Row(
