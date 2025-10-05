@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-    "name": "app_corrida",
-    "short_name": "app_corrida",
-=======
     "name": "app02",
     "short_name": "app02",
->>>>>>> 54ee9696c6c4b0b149e186b172ed1e6f6cbe7083
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
